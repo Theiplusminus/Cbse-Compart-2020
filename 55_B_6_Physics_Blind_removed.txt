@@ -64,18 +64,18 @@ is connected to 1 ?F capacitor through an ac ammeter. The reading of the ammeter
 (C) 40 mA
 (D) 80 mA
 
-7. If a change in current of 0·01 A in one coil produces a change in magnetic flux of 2 ? 10-2 Wb in the other, then the mutual
+7. If a change in current of 0Â·01 A in one coil produces a change in magnetic flux of 2 ? 10-2 Wb in the other, then the mutual
 inductance (in Henry) of two coils is	1
 (A) Zero
-(B) 0·5
+(B) 0Â·5
 (C) 	2
 (D) 	3
-8. A combination of two cells of emfs ?1 = 4 V and ?2 = 6 V and internal resistance r1 = 0·5 ? and r2 = 0·25 ? connected in parallel, can be replaced by an equivalent cell of emf ? and
+8. A combination of two cells of emfs ?1 = 4 V and ?2 = 6 V and internal resistance r1 = 0Â·5 ? and r2 = 0Â·25 ? connected in parallel, can be replaced by an equivalent cell of emf ? and
 internal resistance r given by	1
-(A) ? = 4·3 V, r = 0·75 ?
-(B) ? = 6·3 V, r = 0·16 ?
-(C) ? = 5·3 V, r = 0·16 ?
-(D) ? = 2·3 V, r = 0·26 ?
+(A) ? = 4Â·3 V, r = 0Â·75 ?
+(B) ? = 6Â·3 V, r = 0Â·16 ?
+(C) ? = 5Â·3 V, r = 0Â·16 ?
+(D) ? = 2Â·3 V, r = 0Â·26 ?
 
 9. Current (in A) varies with time (in s) as
 I = 3 sin ?t + 4 cos ?t.
@@ -126,7 +126,7 @@ SECTION B
 which the electric potential is zero.	2
 22. Define the terms 'stopping potential' and 'threshold frequency'
 in relation to photoelectric effect. Write the equation which relates these quantities.	2
-23. The susceptibility of a magnetic material is - 1·6 ? 10-5. Identify the type of material and write its two properties.	2
+23. The susceptibility of a magnetic material is - 1Â·6 ? 10-5. Identify the type of material and write its two properties.	2
 OR
 Explain the two properties which are important in selecting the material used in making (i) a permanent magnet, and
 (ii) an electromagnet.	2
@@ -159,13 +159,13 @@ is inversely proportional to n2.	3
 point on its axis.	3
 31. A compound microscope uses an objective of focal length 4 cm and eyepiece of focal length 10 cm. An object is placed at 6 cm from the objective lens. If the final image is formed at the least distance of distinct vision, calculate the (i) magnifying power, and (ii) length of the microscope.	3
 OR
-The objective of an astronomical telescope has a diameter of 15 cm and a focal length of 4·0 m. The eyepiece has a focal length of 2·5 cm and the wavelength of light is 6000 Å.
+The objective of an astronomical telescope has a diameter of 15 cm and a focal length of 4Â·0 m. The eyepiece has a focal length of 2Â·5 cm and the wavelength of light is 6000 Ã….
 Calculate the magnifying and resolving powers of the telescope.  3
 
 32. Explain the working principle of a light emitting diode. Write two important advantages of LEDs over the conventional incandescent lamps.	3
 
 
-33. A very high resistance voltmeter is connected across a cell and reads 2·2 V. A 5 ? resistance is now connected across the voltmeter. If the reading in the voltmeter drops to 1·8 V, then find the internal resistance of the cell.	3
+33. A very high resistance voltmeter is connected across a cell and reads 2Â·2 V. A 5 ? resistance is now connected across the voltmeter. If the reading in the voltmeter drops to 1Â·8 V, then find the internal resistance of the cell.	3
 
 
 34. Answer the following :	3
