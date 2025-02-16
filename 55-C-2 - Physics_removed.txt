@@ -1,0 +1,351 @@
+General Instructions :
+Read the following instructions very carefully and strictly follow them :
+(i) This question paper comprises four sections - A, B, C and D.
+(ii) There are 37 questions in the question paper. All questions are compulsory.
+(iii) Section A - Question nos. 1 to 20 are very short answer type questions, carrying one mark each.
+(iv) Section B - Question nos. 21 to 27 are short answer type questions, carrying two marks each.
+(v) Section C - Question nos. 28 to 34 are long answer type questions, carrying three marks each.
+(vi) Section D - Question nos. 35 to 37 are also long answer type questions, carrying five marks each.
+(vii) There is no overall choice in the question paper. However, an internal choice has been provided in 2 questions of one mark, 2 questions of two marks, 1 question of three marks and all the 3 questions of five marks. You have to attempt only one of the choices in such questions.
+(viii) In addition to this, separate instructions are given with each section and question, wherever necessary.
+(ix) Use of calculators and log tables is not permitted.
+(x) You may use the following values of physical constants wherever necessary :
+c = 3 ? 108 m/s
+h = 6.63 ? 10-34 Js
+e = 1.6 ? 10-19 C
+?0 = 4? ? 10-7 T m A-1
+?0 = 8.854 ? 10-12 C2 N-1 m-2
+
+1
+
+
+4 ??0
+
+= 9 ? 109 N m2 C-2
+
+Mass of electron (me) = 9.1 ? 10-31 kg Mass of neutron = 1.675 ? 10-27 kg Mass of proton = 1.673 ? 10-27 kg
+Avogadro's number = 6.023 ? 1023 per gram mole Boltzmann constant = 1.38 ? 10-23 JK-1
+
+SECTION A
+Note :	Select the most appropriate option from the options given below each question :
+1. An air-filled parallel plate capacitor is connected across a battery. After it is fully charged, the battery is disconnected. Now a dielectric slab is inserted between the plates of the capacitor to fill the space completely.
+Then the	1
+(A) capacitance will decrease.
+(B) electric field between the plates will increase.
+(C) potential difference between the plates will increase.
+(D) charge on plates will remain the same.
+2. A charge particle is placed between the plates of a charged parallel plate capacitor. It experiences a force F. If one of the plates is removed, the force on the charge particle becomes	1
+(A) F	(B)	2F
+
+(C)
+
+F	(D)	Zero
+2
+
+?
+3. In a region of space, the electric field  E
+
+and magnetic field ?
+
+are
+
+perpendicular to each other. An electron enters in the region with a constant speed in a direction perpendicular to both the fields (electric and magnetic). If the electron moves undeflected in the fields, then the speed
+of the electron is	1
+
+(A)
+
+E	(B)	B
+B	E
+
+(C)	| ? ? ? |	(D)	E ? B
+E	B	E - B
+4. Two particles of masses m1 and m2 have equal charges. They are
+accelerated from rest through a pot?ential difference V and then enter in a
+region of uniform magnetic field B . If they describe circular paths of
+radii r1 and r2, respectively, then the value of m1 / m2 is	1
+? r ?2	r V
+
+(A)
+
+?  2 ?
+
+(B)	 1	
+
+? r1 ?	r B
+
+?	?
+? r ?2
+
+2
+r2 V
+
+(C)
+
+?  1 ?
+? r2 ?
+
+(D)
+
+ 1	
+r2B
+
+?	?	2
+
+5. A beam of white light is incident on a glass-air interface from the glass side at such an angle that the green light grazes the interface as shown
+in the figure. The colours of light which will emerge out in air, are	1
+
+(A) yellow, orange and red
+(B) violet, indigo and blue
+(C) All colours
+(D) All colours except green
+6. When the temperature of an n-type semiconductor is increased, then the	1
+(A) number of free electrons increases while that of the holes decreases.
+(B) number of holes increases while that of the free electrons decreases.
+(C) number of free electrons and holes remains unchanged.
+(D) number of both the free electrons and the holes increase equally.
+7. The figure shows the energy level diagram of hydrogen atom with few transitions.	Which	transition	shows	the	emission	of	photon	with maximum energy ?								1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(A) I	(B)	II
+(C)	III	(D)	IV
+
+8. A heavy particle initially at rest splits spontaneously into two particles of masses m1 and m2 having non-zero velocities. The ratio of de Broglie wavelengths associated with the particles is	1
+(A) m1 / m2	(B)	m2 / m1
+(C)	1	(D)	?
+9. A window is provided in the middle of a wall. Its image is obtained on the opposite wall at a distance 'd' from it using a lens. If the window and its image are of the same size, then the focal length of the lens used is	1
+
+(A)	+
+(C)	-
+
+d	(B)	+ d
+4	2
+d	(D)	- d
+4	2
+
+10. If all particles are moving with the same speed, then the particle associated with the maximum de Broglie wavelength will be	1
+(A) proton	(B)	?-particle
+(C)	neutron	(D)	?-particle
+Note :	Fill in the blanks with appropriate answer.
+11. In an unbiased p-n junction diode, the n-side of the junction is at
+	potential as compared to that on the p-side of the junction.	1
+12. Young's double slit experiment is performed by using green, red and blue monochromatic light sources, one at a time. The value of the fringe width
+will be maximum in case of 	light.	1
+13. In a single slit diffraction experiment, the phase difference between the waves originating from the two edges of the slit at the first minimum of
+the diffraction pattern is 	rad.	1
+14. An electron in hydrogen atom jumps from state n = 3 to n = 1. The change
+in the angular momentum of the electron will be 	.	1
+OR
+The energy equivalent of 10 g of a substance is 	J.	1
+15. A magnetic needle free to rotate in a vertical plane orients itself vertically at a certain place on earth. The value of angle of dip at this place is 	.	1
+
+Note :	Answer the following questions :
+16. The sequence of successive decay of a radioactive nucleus is shown as under :
+
+D  ??x ? D
+
+?-	D
+
+1	2 ????	3
+If the atomic number and mass number of D1 are 72 and 180 and those of
+D3 are 71 and 176 respectively, identify the particle x.	1
+OR
+The three curves shown below, represent the variation of photocurrent and applied voltage for two different materials using two different intensities of a monochromatic light. Identify the two curves which are
+for the same material.	1
+
+17. A biconvex lens made up of glass of refractive index 1·5, forms a real image of an object in air. If the whole set-up were immersed in a liquid of refractive index 1·7, then how will the nature of the image be affected ?	1
+
+
+18. The I - V characteristics of two wires X and Y at constant temperatures are shown in the figure. The two wires have equal lengths and diameters.
+Which of them is made up of material of larger resistivity ?	1
+
+
+
+
+19. A cell of emf 'E' and internal resistance 'r' is connected across a variable external resistor 'R'. Plot the variation of voltage drop 'V' across the resistor as a function of 'R'.	1
+20. Define SI unit of magnetic flux.	1
+SECTION B
+21. Give reasons for the following facts :	2
+(a) The zener diode is fabricated using heavily doped p-side and n-side of the junction.
+(b) A photodiode used as a detector of optical signals, is operated under reverse bias.
+OR
+With the help of the circuit diagram, explain the working of a silicon
+p-n junction diode in forward biasing and draw its I - V characteristics.    2
+22. Draw the plot of the binding energy per nucleon as a function of mass number for different nuclei. The nuclei lying at the middle flat portion of
+the curve are more stable. Explain.	2
+23. A circuit element 'X' is connected to an ac source V = V0 sin ?t. The variation of voltage and current are shown in the figure by graphs A and B, respectively.
+
+(a) Identify 'X'.
+(b) For	which	element	are	the	voltage	and	current	graphs interchanged ? Justify your answers.				2
+24. Identify the type of waves that can be produced in the process given below and give one application of each :	2
+(a) Radioactive decay of the nucleus
+(b) Rapid acceleration and deceleration of electrons in the aerials
+
+25. Two point charges q and - q are located at (0, 0, - a) and (0, 0, a) respectively.
+(a) Depict the equipotential surfaces due to this arrangement.
+(b) Find the amount of work done in moving a small test charge q0 from point (l, 0, 0) to (0, 0, 0).	2
+26. (a)	Give the sequence of colour bands found on a 47 k? ? 10% carbon resistor.
+(b)	Write two properties of manganin which make it a suitable material for making standard resistors.	2
+
+27. A radioactive substance is reduced to
+
+1 th of its original mass after
+16
+
+4 days. Find the critical mass of the substance so that 4 g of substance is
+left after 6 days.	2
+OR
+In the Geiger-Marsden experiment, an ?-particle of 5·12 MeV energy approaches a gold target (Z = 79), comes momentarily to rest and then reverses its direction. Find the distance of closest approach of ?-particle
+to the target nucleus.	2
+SECTION C
+28. (a)	Explain the term 'internal resistance of a cell'.
+(b)	With the help of a circuit diagram, describe the method of determination of internal resistance of a cell.	3
+29. Draw the circuit diagram of a full-wave rectifier using two p-n junction diodes. Explain its working and draw its input and output waveforms.	3
+30. Ultraviolet light of wavelength 300 nm from a 100 W mercury source irradiates a photocell made up of a metallic surface. If the stopping potential is 1·5 V, then calculate
+(a) the work function of the metal in eV, and
+(b) the number of photoelectrons emitted per second.
+Assume that 60% of the photons emitted from the source cause photoelectric emission in this case.	3
+31. With the help of a suitable diagram, explain the principle of working of a cyclotron. Derive the expression for
+(a) the cyclotron frequency, and
+(b) the kinetic energy acquired by the ion accelerated in the cyclotron.	3
+
+32. A concave mirror produces a two times enlarged virtual image of an object placed 15 cm away from the mirror.
+(a) Find the focal length of the mirror.
+(b) By how much distance should the object be displaced and in what direction, in order to get two times enlarged real image of the object ?	3
+33. (a)	Write the principle of working of an ac generator. Derive the expression for the induced emf generated in it.
+(b)	Write the function of slip rings in an ac generator.	3
+OR
+In a step-up voltage transformer, explain giving reasons, the following facts :	3
+(a) The output current is less than the input current.
+(b) The iron core is laminated.
+(c) The input power is more than the output power.
+34. With the help of a ray diagram, explain the formation of image in a compound microscope when the final image is formed at the near point. Obtain the expression for the magnifying power in this case.	3
+
+
+
+SECTION D
+
+35. (a)	Draw the ray diagram to show use of total internal reflection in
+(i) optical fiber, and
+(ii) a prism that bends the ray by 90?.
+
+(b) A composite prism ABC is made up of two identical right-angled prisms ABD and ADC made up of different materials of refractive indices  3 and ? respectively. A ray of light is incident on face AB of this prism at 60? as shown in the figure. It is observed that the
+final emergent ray grazes along face AC. Find the value of ?.	5
+
+
+
+
+OR
+
+(a) A point object is kept on the principal axis of a convex spherical surface of radius of curvature R, separating a medium of refractive index ?2 from a medium of refractive index ?1 (in which the object is kept). A real image of the object is formed by this surface. Draw the ray diagram to show the image formation and derive the relation between the object distance and image distance in terms of
+?1, ?2 and R.
+(b) A beam of unpolarised light of intensity 2 mW passes successively through two parallel polarizing sheets P1 and P2. If the angle between the pass axes of P1 and P2 is made 60?, find the intensity
+of light transmitted by P1 and P2.	5
+36. (a)  Consider a system of two parallel metal plates of area 'A', each placed at a separation 'd' in air. Derive the expression for the capacitance of this parallel plate capacitor.
+(b) If the two plates of the capacitor have + q and - q charges, respectively, find the force experienced by the negative plate due to the positive plate.
+
+(c) A network of four capacitors each of capacitance 12 ?F is connected to a battery as shown in the figure. Find the total charge stored in
+the network.	5
+
+
+OR
+(a) State the principle of working of Wheatstone bridge. With the help of a circuit diagram, explain how it is used in the determination of the specific resistance of the material of a wire using meter bridge.
+(b) A cell of emf E1 = 2 V and internal resistance r1 = 1 ? is connected to another cell of emf E2 = 8 V and internal resistance r2 = 2 ? through an external resistance of 4 ? as shown in the figure. Find
+the potential difference between point A and point C.	5
+
+
+
+
+
+
+
+
+
+
+
+
+37. (a)  With the help of a diagram, explain the working of a moving coil galvanometer. Justify the necessity of using radial magnetic field in it.
+
+(b) A galvanometer can be converted into a voltmeter to measure up to
+(i) V volt by connecting a resistance of 2 k? in series with the galvanometer.
+(ii) 2 V volt by connecting a resistance 5 k? in series with the galvanometer.
+Calculate the resistance that should be connected in series with the galvanometer to convert it into a voltmeter to measure up to
+V volt.	5
+2
+OR
+
+(a) A conducting rod XY of length l slides on two smooth parallel rails PM and QN with a uniform velocity ?. The resistances of the rod
+and the rails are negligible.
+?
+A uniform magnetic field B perpendicular to the plane PMNQ is
+present in the region pointing vertically upwards as shown in the figure. A small resistance r is connected between the ends M and N of the rails. Obtain
+
+
+?
+B
+
+
+
+(i) the expression for emf induced across the ends of the rod and its polarity.
+(ii) the magnitude and direction of induced current that flows through resistance r.
+(b) Two coplanar and concentric circular loops are of radii 0·5 cm and 11 cm, respectively. These loops are placed in a uniform external magnetic field of 0·4 T acting perpendicular to their plane.
+Calculate the mutual inductance of the arrangement.	5
+
+
+
+23
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

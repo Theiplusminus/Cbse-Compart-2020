@@ -1,0 +1,242 @@
+
+General Instructions :
+Read the following instructions very carefully and strictly follow them :
+(i) This question paper comprises four sections ? A, B, C and D.
+(ii) There are 37 questions in the question paper. All questions are compulsory.
+(iii) Section A - Question nos. 1 to 20 are very short answer type questions, carrying one mark each.
+(iv) Section B - Question nos. 21 to 27 are short answer type questions, carrying two marks each.
+(v) Section C - Question nos. 28 to 34 are long answer type questions, carrying three marks each.
+(vi) Section D - Question nos. 35 to 37 are also long answer type questions, carrying five marks each.
+(vii) There is no overall choice in the question paper. However, an internal choice has been provided in 2 questions of 1 mark,
+2 questions of 2 marks, 1 question of three marks and all the
+3 questions of five marks. You have to attempt only one of the choices in such questions.
+(viii) In addition to this, separate instructions are given with each section and question, wherever necessary.
+(ix) Use of calculators and log tables is not permitted.
+(x) You may use the following values of physical constants wherever necessary.
+c = 3 ? 108 m/s
+h = 6.63 ? 10-34 Js
+e = 1.6 ? 10-19 C
+?0 = 4? ? 10-7 T m A-1
+?0 = 8.854 ? 10-12 C2 N-1 m-2
+
+1
+4 ??0
+
+= 9 ? 109 N m2 C-2
+
+Mass of electron (me) = 9.1 ? 10-31 kg Mass of neutron = 1.675 ? 10-27 kg Mass of proton = 1.673 ? 10-27 kg
+Avogadro's number = 6.023 ? 1023 per gram mole Boltzmann constant = 1.38 ? 10-23 JK-1
+
+SECTION A
+Note : Select the most appropriate option from those given below each question :
+
+1. Three resistors of equal resistance 3 ? are connected to form a triangle. The equivalent resistance between any two vertices of
+the triangle is	1
+(A) 1 ?
+(B) 2 ?
+(C) 3 ?
+(D) 6 ?
+2. In a single slit diffraction experiment, the width of the slit is made double the original width.	1
+(A) The	size	of	central	maximum	will	be	doubled	but intensity will be unaffected.
+(B) The size of central maximum will be reduced to half of the initial value but the intensity remains the same.
+(C) The size of central maximum will be reduced to half of the initial value and the intensity increases four times.
+(D) The size of central maximum remains the same but the intensity will be doubled.
+3. An electron and a proton are moving such that the de Broglie wavelengths associated with them are equal. They will have	1
+(A) same linear momentum
+(B) same kinetic energy
+(C) same linear velocity
+(D) same angular velocity
+
+4. Which property of nuclear force explains that the binding energy per nucleon is nearly constant for the mass number of nuclei between 20 < A < 170 ?	1
+(A) Strong nuclear force
+(B) Spin dependence
+(C) Non-central nature of nuclear force
+(D) Short range property of nuclear force
+5. The appearance of rainbow in the sky during rainy season is due to the	1
+(A) phenomenon of refraction by water droplets
+(B) phenomenon of total internal reflection
+(C) phenomenon of reflection
+(D) combined effect of the phenomena of reflection, refraction and dispersion of sunlight by water droplets
+6. An alternating voltage (in volt) given by V = 200	sin 100 t
+is connected to 1 ?F capacitor through an ac ammeter. The reading of the ammeter will be	1
+(A) 10 mA
+(B) 20 mA
+(C) 40 mA
+(D) 80 mA
+
+7. If a change in current of 0·01 A in one coil produces a change in magnetic flux of 2 ? 10-2 Wb in the other, then the mutual
+inductance (in Henry) of two coils is	1
+(A) Zero
+(B) 0·5
+(C) 	2
+(D) 	3
+8. A combination of two cells of emfs ?1 = 4 V and ?2 = 6 V and internal resistance r1 = 0·5 ? and r2 = 0·25 ? connected in parallel, can be replaced by an equivalent cell of emf ? and
+internal resistance r given by	1
+(A) ? = 4·3 V, r = 0·75 ?
+(B) ? = 6·3 V, r = 0·16 ?
+(C) ? = 5·3 V, r = 0·16 ?
+(D) ? = 2·3 V, r = 0·26 ?
+
+9. Current (in A) varies with time (in s) as
+I = 3 sin ?t + 4 cos ?t.
+The rms value of the current is	1
+(A) 3	A
+2
+(B) 4	A
+2
+(C) 5	A
+2
+(D) A
+
+10. When light travels from one medium to another of different refractive index, which physical parameter of light does not change ?	1
+(A) Wavelength
+(B) Amplitude
+(C) Speed
+(D) Frequency
+
+Note :	Fill in the blanks with the appropriate answer.
+
+
+11. In n-type extrinsic semiconductor, the number of free electrons in conduction band is 	 than the number of holes in
+valence band.	1
+
+12. The vertical component of Earth's magnetic field at a place is
+1	times the horizontal component. The value of angle of dip
+3
+at that place is 	.	1
+
+13. The mobility of charge carriers in a semiconductor is 	
+of the voltage applied across it.	1
+14. In 	biasing of p-n junction, p-side is connected to the negative terminal and n-side to the positive terminal of the battery.		1
+15. In	photon	picture	of	light,	intensity	of	light	of	a	given frequency at a surface is proportional to 				 of photons incident on it per m2s.									1
+
+Note : Answer the following :
+16. At	the	surface	of	a	charged	conductor,	why	must	the electrostatic field be normal to the surface at every point ?		1
+17. For an electron orbiting in the ground state of a hydrogen atom, what is the relation between radius of the orbit and the
+de Broglie wavelength associated with it ?	1
+18. Why does a convex mirror always produce a virtual image ?	1
+OR
+A concave lens always forms a virtual image. Why ?	1
+19. State Lenz's law of electromagnetic induction.	1
+OR
+State Faraday's law of electromagnetic induction.	1
+20. Name the phenomenon which is used to establish the wave nature of electrons in the Davisson-Germer experiment.	1
+SECTION B
+21. Two point charges, q1 = 15 ? 10-8 C and q2 = - 3 ? 10-8 C are separated by a distance of 60 cm in air. Find the distance of a point on the line joining the two charges from charge q1, at
+which the electric potential is zero.	2
+22. Define the terms 'stopping potential' and 'threshold frequency'
+in relation to photoelectric effect. Write the equation which relates these quantities.	2
+23. The susceptibility of a magnetic material is - 1·6 ? 10-5. Identify the type of material and write its two properties.	2
+OR
+Explain the two properties which are important in selecting the material used in making (i) a permanent magnet, and
+(ii) an electromagnet.	2
+
+24. Explain briefly how a zener diode is used to obtain a constant
+dc voltage from the unregulated dc input.	2
+
+
+
+25. Define electrical resistivity of a given material. Why does resistivity of a metal increase with temperature whereas in the case of a semiconductor it decreases ?	2
+
+OR
+
+A conductor of length l is connected to a dc source of emf V. If the length of the conductor is tripled by gradually stretching it, how will the (i) drift speed of electrons, and (ii) resistance of
+the conductor be affected ? Justify your answers.	2
+
+
+
+26. Distinguish	between	the	processes	of	nuclear	fission	and nuclear fusion. Write one example for each process.			2
+
+
+27. A long wire is bent into a circular coil of one turn, and then into a circular coil of smaller radius having n turns. If the same current passes through the coil in both cases, then find
+the ratio of the magnetic fields produced at their centres.	2
+
+SECTION C
+28. A convex lens produces a magnified image of an object on a screen placed 10 m from the lens. If the magnification of the image is 19, then find the focal length of the lens.	3
+29. Using Bohr's postulates, show that for an electron revolving in the nth orbit in hydrogen atom the (i) radius of the orbit is directly proportional to n2, and (ii) total energy of the electron
+is inversely proportional to n2.	3
+30. State Biot-Savart law. Use this law to derive the expression for the magnetic field due to a circular current carrying coil at a
+point on its axis.	3
+31. A compound microscope uses an objective of focal length 4 cm and eyepiece of focal length 10 cm. An object is placed at 6 cm from the objective lens. If the final image is formed at the least distance of distinct vision, calculate the (i) magnifying power, and (ii) length of the microscope.	3
+OR
+The objective of an astronomical telescope has a diameter of 15 cm and a focal length of 4·0 m. The eyepiece has a focal length of 2·5 cm and the wavelength of light is 6000 Å.
+Calculate the magnifying and resolving powers of the telescope.  3
+
+32. Explain the working principle of a light emitting diode. Write two important advantages of LEDs over the conventional incandescent lamps.	3
+
+
+33. A very high resistance voltmeter is connected across a cell and reads 2·2 V. A 5 ? resistance is now connected across the voltmeter. If the reading in the voltmeter drops to 1·8 V, then find the internal resistance of the cell.	3
+
+
+34. Answer the following :	3
+(a) When a tiny circular obstacle is placed in the path of light from a distant source, a bright spot is seen at the centre of the shadow of the obstacle. Justify.
+(b) In what way is diffraction from each slit related to the interference pattern in double slit experiment ?
+(c) What is the shape of the wavefront of light emerging out of a convex lens when a point source is placed at its focus ?
+
+SECTION D
+35. (a)  Define electric flux. Write its SI unit.
+(b) Using Gauss's law, derive the expression for the electric field due to a uniformly charged thin spherical conducting shell at a point (i) outside the shell, and
+(ii) inside the shell.	5
+OR
+(a) An electric dipole of dipole moment	?p	is held in a
+?
+uniform electric field E . Obtain the expression for the
+torque acting on the dipole. State the direction along which it acts.
+(b) In this case, obtain the amount of work done for turning the	electric	dipole	from	the	position	of	most	stable
+equilibrium to that of most unstable equilibrium.	5
+36. (a) Distinguish between unpolarized light and linearly polarized light.
+(b) An unpolarized light is incident on the boundary between two transparent media. State the condition when the reflected light is totally plane polarized. Obtain the expression for the angle of incidence in this case.
+(c) How will the speed of light in glass change with the increase of wavelength of light ?	5
+OR
+(a) Write the necessary conditions for the phenomenon of total internal reflection to occur. Derive the relation between the critical angle and refractive index of the medium for total internal reflection. Give the significance of the word 'total' in total internal reflection.
+(b) Explain the working of an optical fibre. Mention their two important uses.	5
+
+37. (a)	Derive the relation for resonance in a series LCR circuit connected to an ac source of variable frequency.
+(b)	Explain the terms (i) Q-factor, (ii) Power factor, and
+(iii) Wattless current.	5
+OR
+(a) Define self-inductance of a coil. Write its SI unit.
+(b) Derive	the	expression	for	self-inductance	of	a	long solenoid.
+(c) What are eddy currents ? Write their two applications.	5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
