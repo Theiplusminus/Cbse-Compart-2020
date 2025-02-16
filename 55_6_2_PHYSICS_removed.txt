@@ -164,7 +164,7 @@ OR
 The three curves shown below, represent the variation of photocurrent and applied voltage for two different materials using two different intensities of a monochromatic light. Identify the two curves which are
 for the same material.	1
 
-17. A biconvex lens made up of glass of refractive index 1·5, forms a real image of an object in air. If the whole set-up were immersed in a liquid of refractive index 1·7, then how will the nature of the image be affected ?	1
+17. A biconvex lens made up of glass of refractive index 1Â·5, forms a real image of an object in air. If the whole set-up were immersed in a liquid of refractive index 1Â·7, then how will the nature of the image be affected ?	1
 
 
 18. The I - V characteristics of two wires X and Y at constant temperatures are shown in the figure. The two wires have equal lengths and diameters.
@@ -206,13 +206,13 @@ the curve are more stable. Explain.	2
 4 days. Find the critical mass of the substance so that 4 g of substance is
 left after 6 days.	2
 OR
-In the Geiger-Marsden experiment, an ?-particle of 5·12 MeV energy approaches a gold target (Z = 79), comes momentarily to rest and then reverses its direction. Find the distance of closest approach of ?-particle
+In the Geiger-Marsden experiment, an ?-particle of 5Â·12 MeV energy approaches a gold target (Z = 79), comes momentarily to rest and then reverses its direction. Find the distance of closest approach of ?-particle
 to the target nucleus.	2
 SECTION C
 28. (a)	Explain the term 'internal resistance of a cell'.
 (b)	With the help of a circuit diagram, describe the method of determination of internal resistance of a cell.	3
 29. Draw the circuit diagram of a full-wave rectifier using two p-n junction diodes. Explain its working and draw its input and output waveforms.	3
-30. Ultraviolet light of wavelength 300 nm from a 100 W mercury source irradiates a photocell made up of a metallic surface. If the stopping potential is 1·5 V, then calculate
+30. Ultraviolet light of wavelength 300 nm from a 100 W mercury source irradiates a photocell made up of a metallic surface. If the stopping potential is 1Â·5 V, then calculate
 (a) the work function of the metal in eV, and
 (b) the number of photoelectrons emitted per second.
 Assume that 60% of the photons emitted from the source cause photoelectric emission in this case.	3
@@ -299,7 +299,7 @@ B
 
 (i) the expression for emf induced across the ends of the rod and its polarity.
 (ii) the magnitude and direction of induced current that flows through resistance r.
-(b) Two coplanar and concentric circular loops are of radii 0·5 cm and 11 cm, respectively. These loops are placed in a uniform external magnetic field of 0·4 T acting perpendicular to their plane.
+(b) Two coplanar and concentric circular loops are of radii 0Â·5 cm and 11 cm, respectively. These loops are placed in a uniform external magnetic field of 0Â·4 T acting perpendicular to their plane.
 Calculate the mutual inductance of the arrangement.	5
 
 
