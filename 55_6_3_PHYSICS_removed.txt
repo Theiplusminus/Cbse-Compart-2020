@@ -110,7 +110,13 @@ r2B
 8. An electron and a neutron have equal de Broglie wavelengths. It implies
 that they have equal	1
 
-(A)	kinetic energy(B)linear momentum(C)	linear velocity(D)angular velocity9. In Young's double slit experiment, the interfering waves from the two
+(A)	kinetic energy
+(B)
+linear momentum
+(C)	linear velocity
+(D)
+angular velocity
+9. In Young's double slit experiment, the interfering waves from the two
 
 sources have a path difference of 0 and
 
@@ -156,7 +162,7 @@ OR
 The three curves shown below, represent the variation of photocurrent and applied voltage for two different materials using two different intensities of a monochromatic light. Identify the two curves which are
 for the same material.	1
 
-18. A biconvex lens made up of glass of refractive index 1·5, forms a real image of an object in air. If the whole set-up were immersed in a liquid of refractive index 1·7, then how will the nature of the image be affected ?	1
+18. A biconvex lens made up of glass of refractive index 1Â·5, forms a real image of an object in air. If the whole set-up were immersed in a liquid of refractive index 1Â·7, then how will the nature of the image be affected ?	1
 19. The I - V characteristics of two wires X and Y at constant temperatures are shown in the figure. The two wires have equal lengths and diameters.
 Which of them is made up of material of larger resistivity ?	1
 
@@ -191,7 +197,7 @@ th of its original mass after
 4 days. Find the critical mass of the substance so that 4 g of substance is
 left after 6 days.	2
 OR
-In the Geiger-Marsden experiment, an ?-particle of 5·12 MeV energy approaches a gold target (Z = 79), comes momentarily to rest and then reverses its direction. Find the distance of closest approach of ?-particle
+In the Geiger-Marsden experiment, an ?-particle of 5Â·12 MeV energy approaches a gold target (Z = 79), comes momentarily to rest and then reverses its direction. Find the distance of closest approach of ?-particle
 to the target nucleus.	2
 27. Draw the plot of the binding energy per nucleon as a function of mass number for different nuclei. The nuclei lying at the middle flat portion of
 the curve are more stable. Explain.	2
@@ -260,7 +266,7 @@ B
 
 (i) the expression for emf induced across the ends of the rod and its polarity.
 (ii) the magnitude and direction of induced current that flows through resistance r.
-(b) Two coplanar and concentric circular loops are of radii 0·5 cm and 11 cm, respectively. These loops are placed in a uniform external magnetic field of 0·4 T acting perpendicular to their plane.
+(b) Two coplanar and concentric circular loops are of radii 0Â·5 cm and 11 cm, respectively. These loops are placed in a uniform external magnetic field of 0Â·4 T acting perpendicular to their plane.
 Calculate the mutual inductance of the arrangement.	5
 36. (a)	Draw the ray diagram to show use of total internal reflection in
 (i) optical fiber, and
