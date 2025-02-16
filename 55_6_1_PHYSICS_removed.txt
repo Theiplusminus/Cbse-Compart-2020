@@ -117,18 +117,59 @@ d	(D)	- d
 
 
 
-(A)I(B)II(C)III(D)IV
+(A)
+I
+(B)
+II
+(C)
+III
+(D)
+IV
 
-10.When the temperature of an n-type semiconductor is increased, then the
-(A)	number of free electrons increases while that of the holes decreases.1(B)	number of holes increases while that of the free electrons decreases.(C)	number of free electrons and holes remains unchanged.(D)	number of both the free electrons and the holes increase equally.Note :Fill in the blanks with appropriate answer.11.In an unbiased p-n junction diode, the p-side of the junction is at
-	potential as compared to that on the n-side of the junction.
-112.An electron in hydrogen atom jumps from state n = 3 to n = 1. The change in the angular momentum of the electron will be 	.
-1ORThe energy equivalent of 10 g of a substance is 	J.113.Young's double slit experiment is performed by using green, red and blue monochromatic light sources, one at a time. The value of the fringe width will be maximum in case of 	light.
 
-114.In a single slit diffraction experiment, the phase difference between the
-waves originating from the two edges of the slit at the first minimum of the diffraction pattern is 	rad.
+10.
+When the temperature of an n-type semiconductor is increased, then the
+(A)	number of free electrons increases while that of the holes decreases.
+1
 
-1
+(B)	number of holes increases while that of the free electrons decreases.
+
+
+(C)	number of free electrons and holes remains unchanged.
+
+
+(D)	number of both the free electrons and the holes increase equally.
+
+Note :
+Fill in the blanks with appropriate answer.
+
+11.
+In an unbiased p-n junction diode, the p-side of the junction is at
+	potential as compared to that on the n-side of the junction.
+
+1
+12.
+An electron in hydrogen atom jumps from state n = 3 to n = 1. The change in the angular momentum of the electron will be 	.
+
+1
+
+OR
+
+
+The energy equivalent of 10 g of a substance is 	J.
+1
+13.
+Young's double slit experiment is performed by using green, red and blue monochromatic light sources, one at a time. The value of the fringe width will be maximum in case of 	light.
+
+
+1
+14.
+In a single slit diffraction experiment, the phase difference between the
+waves originating from the two edges of the slit at the first minimum of the diffraction pattern is 	rad.
+
+
+1
+
 
 15. A magnetic needle free to rotate in a vertical plane orients itself vertically at a certain place on earth. The value of angle of dip at this place is 	.	1
 Note :	Answer the following questions :
@@ -137,7 +178,7 @@ Which of them is made up of material of larger resistivity ?	1
 
 17. Write the dimensions of self-inductance of a coil.	1
 18. A cell of emf 'E' and internal resistance 'r' is connected across a variable external resistor 'R'. Plot the variation of voltage drop 'V' across the resistor as a function of 'R'.	1
-19. A biconvex lens made up of glass of refractive index 1·5, forms a real image of an object in air. If the whole set-up were immersed in a liquid of refractive index 1·7, then how will the nature of the image be affected ?	1
+19. A biconvex lens made up of glass of refractive index 1Â·5, forms a real image of an object in air. If the whole set-up were immersed in a liquid of refractive index 1Â·7, then how will the nature of the image be affected ?	1
 20. The sequence of successive decay of a radioactive nucleus is shown as under :
 
 D  ??x ? D
@@ -163,7 +204,7 @@ SECTION B
 (b) Find the amount of work done in moving a small test charge q0 from point (l, 0, 0) to (0, 0, 0).	2
 22. (a)	Give the sequence of colour bands found on a 47 k? ? 10% carbon resistor.
 (b)	Write two properties of manganin which make it a suitable material for making standard resistors.	2
-23. An inductor L = 0·4 H, a capacitor C = 10 ?F and a resistor R = 400 ? are connected in series to an ac source V = 40 sin (1000 t + ?/3) volt.
+23. An inductor L = 0Â·4 H, a capacitor C = 10 ?F and a resistor R = 400 ? are connected in series to an ac source V = 40 sin (1000 t + ?/3) volt.
 Calculate the
 (a) impedance of the circuit, and
 (b) peak value of current.	2
@@ -179,7 +220,7 @@ Calculate the
 4 days. Find the critical mass of the substance so that 4 g of substance is
 left after 6 days.	2
 OR
-In the Geiger-Marsden experiment, an ?-particle of 5·12 MeV energy approaches a gold target (Z = 79), comes momentarily to rest and then reverses its direction. Find the distance of closest approach of ?-particle
+In the Geiger-Marsden experiment, an ?-particle of 5Â·12 MeV energy approaches a gold target (Z = 79), comes momentarily to rest and then reverses its direction. Find the distance of closest approach of ?-particle
 to the target nucleus.	2
 26. Draw the plot of the binding energy per nucleon as a function of mass number for different nuclei. The nuclei lying at the middle flat portion of
 the curve are more stable. Explain.	2
@@ -213,7 +254,7 @@ In a step-up voltage transformer, explain giving reasons, the following facts :	
 (a) Find the focal length of the mirror.
 (b) By how much distance should the object be displaced and in what direction, in order to get two times enlarged real image of the object ?	3
 32. With the help of a ray diagram, explain the formation of image in a compound microscope when the final image is formed at the near point. Obtain the expression for the magnifying power in this case.	3
-33. Light of wavelength 2000 Å is incident on a metal surface of work function 4·2 eV in an experiment on photoelectric effect.
+33. Light of wavelength 2000 Ã… is incident on a metal surface of work function 4Â·2 eV in an experiment on photoelectric effect.
 (a) Find the maximum kinetic energy (in eV) of ejected photoelectrons.
 (b) If the intensity of light is doubled, find the change in stopping potential.	3
 34. Draw the circuit diagram of a full-wave rectifier using two p-n junction diodes. Explain its working and draw its input and output waveforms.	3
@@ -253,7 +294,7 @@ B
 
 (i) the expression for emf induced across the ends of the rod and its polarity.
 (ii) the magnitude and direction of induced current that flows through resistance r.
-(b) Two coplanar and concentric circular loops are of radii 0·5 cm and 11 cm, respectively. These loops are placed in a uniform external magnetic field of 0·4 T acting perpendicular to their plane.
+(b) Two coplanar and concentric circular loops are of radii 0Â·5 cm and 11 cm, respectively. These loops are placed in a uniform external magnetic field of 0Â·4 T acting perpendicular to their plane.
 Calculate the mutual inductance of the arrangement.	5
 
 37. (a)	Draw the ray diagram to show use of total internal reflection in
